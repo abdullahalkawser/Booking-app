@@ -2,7 +2,10 @@ import React from 'react'
 
 const FlightData = () => {
   return (
-    <div>FlightData</div>
+    <div>FlightData
+
+
+    </div>
   )
 }
 
